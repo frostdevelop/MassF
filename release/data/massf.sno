@@ -1,0 +1,7 @@
+SNOW 1.0
+#Hello user lol this is the funny config file
+$MASSFAUTH$
+isSigned = false
+isToken = false
+usertoken = ""
+usernam = ""

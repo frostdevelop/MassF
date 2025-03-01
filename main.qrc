@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>asset/splash.png</file>
+        <file>asset/TopBar.png</file>
+        <file>asset/frost_barcode.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>asset/checked.png</file>
+        <file>asset/add.png</file>
+    </qresource>
+</RCC>
