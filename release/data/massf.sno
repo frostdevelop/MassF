@@ -1,7 +1,7 @@
 SNOW 1.0
 #Hello user lol this is the funny config file
 $MASSFAUTH$
-isSigned = false
+isSigned = true
 isToken = false
-usertoken = ""
-usernam = ""
+usertoken = "1f893248f93dad594452379bdbda160819cb2df2867aed7089879ecea15db132a6514a4e455b16b0ddd4588489bda769"
+usernam = "gravy"
